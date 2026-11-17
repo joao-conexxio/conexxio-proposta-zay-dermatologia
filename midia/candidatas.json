@@ -1,0 +1,23 @@
+{
+  "candidatas": [
+    {
+      "arquivo": "midia/cand-01.jpg",
+      "largura": 1400,
+      "altura": 1282,
+      "origem": "https://zayestetica.com.br/wp-content/uploads/2025/04/zay-estetica-dermatologia-logo-1536x1406.png.webp"
+    },
+    {
+      "arquivo": "midia/cand-02.jpg",
+      "largura": 1400,
+      "altura": 865,
+      "origem": "https://zayestetica.com.br/wp-content/uploads/2022/01/w0284_1s_Black-and-White-Floral-Pattern-Wallpaper-for-Walls-Sketch-Floral_Repeating-Pattern-Sample-1-scaled.jpg"
+    },
+    {
+      "arquivo": "midia/cand-03.jpg",
+      "largura": 1024,
+      "altura": 576,
+      "origem": "https://zayestetica.com.br/wp-content/uploads/2026/03/ambiente-01-1-1024x576.jpg.webp"
+    }
+  ],
+  "folha": "midia/folha.png"
+}

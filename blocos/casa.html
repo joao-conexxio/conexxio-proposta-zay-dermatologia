@@ -1,0 +1,33 @@
+<section class="blk-casa" id="casa">
+  <div class="wrap">
+    <div class="blk-casa__topo">
+      <p class="blk-casa__eyebrow" data-reveal>Antes e depois da cabine</p>
+      <h2 class="blk-casa__titulo" data-reveal>Quem recebe, agenda e acompanha você</h2>
+      <p class="blk-casa__lead" data-acende>Na Zay, o cuidado não começa na maca. Tem quem receba você com um café, quem organize suas sessões, quem aplique a tecnologia e quem cuide para que nada fique esquecido entre uma visita e a próxima.</p>
+    </div>
+    <ul class="blk-casa__grade">
+      <li data-reveal style="--d:0ms"><div class="blk-casa__foto"><!--foto:midia/eq-thais.jpg|Thais, hostess da Zay, apoiada no balcão da recepção--></div><strong>Thais</strong><span>Hostess · recebe você na chegada</span></li>
+      <li data-reveal style="--d:90ms"><div class="blk-casa__foto"><!--foto:midia/eq-vanessa.jpg|Vanessa, da recepção comercial da Zay--></div><strong>Vanessa</strong><span>Recepção · agenda e tira dúvidas</span></li>
+      <li data-reveal style="--d:180ms"><div class="blk-casa__foto"><!--foto:midia/eq-carollyne.jpg|Carollyne, gerente da Zay, ao lado da parede verde--></div><strong>Carollyne</strong><span>Gerente · cuida da sua experiência</span></li>
+      <li data-reveal style="--d:270ms"><div class="blk-casa__foto"><!--foto:midia/eq-leticia.jpg|Leticia, esteticista da Zay--></div><strong>Leticia</strong><span>Esteticista · tecnologias e práticas integrativas</span></li>
+      <li data-reveal style="--d:360ms"><div class="blk-casa__foto"><!--foto:midia/eq-roberta.jpg|Roberta, esteticista da Zay--></div><strong>Roberta</strong><span>Esteticista · tecnologias e práticas integrativas</span></li>
+    </ul>
+  </div>
+</section>
+
+<style>
+.blk-casa{padding-block:var(--sp-section)}
+.blk-casa__eyebrow{margin:0 0 var(--sp-2);font-family:var(--f-body);font-size:var(--t-label);letter-spacing:var(--eyebrow-track);text-transform:uppercase;color:var(--brand)}
+.blk-casa__titulo{margin:0;font-family:var(--f-display);font-size:var(--t-h2);line-height:var(--lh-display);text-wrap:balance;color:var(--ink)}
+.blk-casa__lead{margin:var(--sp-3) 0 var(--sp-5);font-size:1.12rem;line-height:1.65;color:var(--ink);max-width:40rem}
+.blk-casa__grade{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:var(--sp-3)}
+@media (max-width:759px){.blk-casa__grade li:last-child:nth-child(odd){grid-column:1/-1;max-width:50%;justify-self:center}}
+.blk-casa__grade li{display:flex;flex-direction:column;gap:.35rem}
+.blk-casa__foto{aspect-ratio:4/5;overflow:hidden;border-radius:var(--radius);background:color-mix(in srgb,var(--brand) 10%,var(--bg));margin-bottom:.4rem}
+.blk-casa__foto .foto{margin:0;height:100%;width:100%}
+.blk-casa__foto img{width:100%;height:100%;object-fit:cover;display:block}
+.blk-casa__grade strong{font-family:var(--f-display);font-size:1.35rem;font-weight:500;color:var(--ink)}
+.blk-casa__grade span{font-size:.92rem;line-height:1.45;color:color-mix(in srgb,var(--ink) 72%,transparent)}
+@media (min-width:760px){.blk-casa__grade{grid-template-columns:repeat(3,minmax(0,1fr))}}
+@media (min-width:1100px){.blk-casa__grade{grid-template-columns:repeat(5,minmax(0,1fr))}}
+</style>

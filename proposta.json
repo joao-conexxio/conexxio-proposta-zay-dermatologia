@@ -1,0 +1,386 @@
+{
+  "slug": "zay-dermatologia",
+  "negocio": {
+    "nome": "Zay Dermatologia e Estética",
+    "logo": "brand/logo.webp",
+    "telefone": "(11) 96229-6053",
+    "whatsapp": "5511962296053",
+    "unidades": [
+      {
+        "bairro": "Higienópolis · São Paulo",
+        "endereco": "R. Emílio de Menezes, 76 · salas 33/34, 3º andar · Santa Cecília, São Paulo/SP",
+        "telefone": "(11) 96229-6053 · (11) 3661-1094"
+      }
+    ]
+  },
+  "marca": {
+    "brand": "#A4602E",
+    "brand2": "#7A4520",
+    "ink": "#3B2F28",
+    "bg": "#FFFFFF",
+    "pulse": "#C49A6C",
+    "radius": "4px",
+    "registro": "editorial",
+    "fontDisplay": "EB Garamond",
+    "fontBody": "Jost",
+    "tomHero": "claro",
+    "tomCorpo": "claro"
+  },
+  "motivo": "camadas",
+  "secoes": [
+    {
+      "id": "header",
+      "variant": "sticky-cta",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Como funciona",
+            "href": "#como-funciona"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ]
+      }
+    },
+    {
+      "id": "hero",
+      "variant": "moldura",
+      "data": {
+        "eyebrow": "Dermatologia e estética · Higienópolis",
+        "h1": "Pele, cabelo e corpo cuidados com ciência e sem pressa",
+        "lead": "Dermatologista, médica esteta e fisioterapeuta dermatofuncional atendem na mesma casa, em Higienópolis. Cada tratamento começa por uma avaliação.",
+        "cta": "Agendar avaliação",
+        "ctaSecundario": "Ver tratamentos",
+        "ctaSecundarioHref": "#tratamentos",
+        "imagem": "midia/fundadoras.jpg",
+        "imagemAlt": "Três profissionais da Zay lado a lado diante de uma parede clara",
+        "tarja": [
+          "5,0 no Google, 189 avaliações",
+          "Mais de 12 anos em São Paulo",
+          "Dermatologista e tricologista na equipe",
+          "Avaliação antes de todo tratamento"
+        ]
+      }
+    },
+    {
+      "id": "fita",
+      "variant": "inclinada",
+      "data": {
+        "itens": [
+          "Depilação a laser",
+          "Tratamentos faciais",
+          "Dermatologia",
+          "Tricologia",
+          "Ultraformer MPT",
+          "Tratamentos corporais",
+          "Massagens",
+          "Práticas integrativas"
+        ]
+      }
+    },
+    {
+      "id": "manifesto",
+      "variant": "pagina",
+      "data": {
+        "eyebrow": "O jeito Zay",
+        "citacao": "O brilho é seu; a gente só realça.",
+        "autor": "Zay Dermatologia e Estética",
+        "texto": [
+          "A Zay junta duas coisas que costumam morar em endereços diferentes: a consulta com a dermatologista e a rotina de cuidado com tecnologia e toque.",
+          "O ponto de partida é sempre a sua pele, o seu cabelo, o seu objetivo. Daí sai um plano com sessões, intervalos e cuidados de casa, sem empurrar procedimento que você não precisa."
+        ],
+        "imagem": "midia/inauguracao.jpg",
+        "imagemAlt": "Duas profissionais da Zay conversando e rindo com xícaras de café no sofá verde"
+      }
+    },
+    {
+      "id": "tratamentos",
+      "variant": "pilha",
+      "data": {
+        "titulo": "O que a Zay trata",
+        "lead": "Seis frentes, todas com avaliação antes da primeira sessão.",
+        "itens": [
+          {
+            "nome": "Depilação a laser",
+            "descricao": "Laser de diodo que age na raiz do pelo. A série inicial e o intervalo seguem o ciclo de crescimento de cada região.",
+            "sessoes": "8 a 10, a cada 30 a 45 dias",
+            "icone": "laser",
+            "imagem": "midia/sala-laser.jpg"
+          },
+          {
+            "nome": "Tratamentos dermatológicos",
+            "descricao": "Consulta com médica dermatologista para manchas, acne, sinais e o que mais pedir diagnóstico antes de qualquer aparelho.",
+            "icone": "pele"
+          },
+          {
+            "nome": "Tratamentos faciais",
+            "descricao": "Firmeza, textura e viço com tecnologia de estímulo de colágeno e protocolos de cabine.",
+            "icone": "rosto",
+            "imagem": "midia/cabine.jpg"
+          },
+          {
+            "nome": "Tratamentos capilares",
+            "descricao": "Queda e afinamento avaliados por médica com pós-graduação em tricologia, a área que estuda o cabelo e o couro cabeludo.",
+            "icone": "molecula"
+          },
+          {
+            "nome": "Tratamentos corporais",
+            "descricao": "Protocolos de tecnologia estética para o corpo, desenhados pela fisioterapeuta dermatofuncional.",
+            "icone": "mulher"
+          },
+          {
+            "nome": "Massagens",
+            "descricao": "Relaxamento e bem-estar com as práticas integrativas da casa, para quem quer cuidar de si sem objetivo estético.",
+            "icone": "spa"
+          }
+        ]
+      }
+    },
+    {
+      "id": "tecnologias",
+      "variant": "grade",
+      "data": {
+        "titulo": "O que tem na cabine",
+        "itens": [
+          {
+            "nome": "Ultraformer MPT",
+            "detalhe": "Ultrassom microfocado para estímulo de colágeno no rosto e no corpo",
+            "icone": "ultrassom"
+          },
+          {
+            "nome": "Laser de diodo",
+            "detalhe": "Depilação definitiva em pernas, axilas, virilha, buço e rosto",
+            "icone": "laser"
+          },
+          {
+            "nome": "Método AYVU",
+            "detalhe": "Terapias naturais aplicadas por profissional licenciada",
+            "icone": "folha"
+          }
+        ]
+      }
+    },
+    {
+      "id": "numeros",
+      "variant": "vivo",
+      "data": {
+        "titulo": "A Zay em números",
+        "itens": [
+          {
+            "valor": "12+",
+            "rotulo": "anos atendendo em São Paulo",
+            "contar": 12
+          },
+          {
+            "valor": "5,0",
+            "rotulo": "nota no Google"
+          },
+          {
+            "valor": "189",
+            "rotulo": "avaliações de pacientes",
+            "contar": 189
+          },
+          {
+            "valor": "8",
+            "rotulo": "pessoas cuidando de você",
+            "contar": 8
+          }
+        ]
+      }
+    },
+    {
+      "id": "conversa",
+      "variant": "celular",
+      "data": {
+        "eyebrow": "Pelo WhatsApp",
+        "titulo": "A próxima sessão não fica na sua cabeça",
+        "lead": "Laser, colágeno e tratamento capilar dependem de intervalo certo. A recepção marca, lembra e remarca pelo WhatsApp, sem você precisar fazer a conta.",
+        "cta": "Falar com a Zay",
+        "contato": "Zay Dermatologia e Estética",
+        "mensagens": [
+          {
+            "de": "paciente",
+            "texto": "Oi! Fiz a 3ª sessão de laser na axila. Quando volto?"
+          },
+          {
+            "de": "clinica",
+            "texto": "Oi! Para axila o intervalo é de uns 30 dias, então a próxima fica entre 15 e 20 de dezembro."
+          },
+          {
+            "de": "clinica",
+            "texto": "Tenho dia 17 às 18h30. Posso reservar?"
+          },
+          {
+            "de": "paciente",
+            "texto": "Pode sim, obrigada!"
+          },
+          {
+            "de": "clinica",
+            "texto": "Reservado! Na véspera te mando o lembrete. Só passar lâmina, nada de cera 😊"
+          }
+        ]
+      }
+    },
+    {
+      "id": "passos",
+      "variant": "timeline",
+      "data": {
+        "titulo": "Do primeiro contato ao retorno",
+        "itens": [
+          {
+            "titulo": "Avaliação",
+            "texto": "Você conversa com a profissional certa para a sua queixa: dermatologista, médica esteta ou fisioterapeuta.",
+            "icone": "conversa"
+          },
+          {
+            "titulo": "Plano",
+            "texto": "Sai daqui sabendo quantas sessões, de quanto em quanto tempo e o que fazer em casa.",
+            "icone": "agenda"
+          },
+          {
+            "titulo": "Sessões",
+            "texto": "Na cabine, com a tecnologia indicada e o tempo que o procedimento pede.",
+            "icone": "spa"
+          },
+          {
+            "titulo": "Retorno",
+            "texto": "A próxima data chega a você pelo WhatsApp, no intervalo que o tratamento pede.",
+            "icone": "check"
+          }
+        ]
+      }
+    },
+    {
+      "id": "corpo-clinico",
+      "variant": "monograma",
+      "data": {
+        "titulo": "Quem conduz o seu tratamento",
+        "itens": [
+          {
+            "nome": "Evellyn Campanhola",
+            "especialidade": "Cofundadora · fisioterapeuta com pós em Dermatofuncional, licenciada no método AYVU",
+            "foto": "midia/eq-evellyn.jpg"
+          },
+          {
+            "nome": "Milena Mota",
+            "especialidade": "Médica · pós em Dermatologia, Medicina Estética e Tricologia",
+            "foto": "midia/eq-milena.jpg"
+          },
+          {
+            "nome": "Ana Letícia",
+            "especialidade": "Médica formada pela UFJF · Medicina Estética",
+            "foto": "midia/eq-ana-leticia.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "custom": "blocos/casa.html"
+    },
+    {
+      "id": "galeria",
+      "variant": "mosaico",
+      "data": {
+        "titulo": "Um espaço feito para desacelerar",
+        "itens": [
+          {
+            "imagem": "midia/recepcao-verde.jpg",
+            "legenda": "Recepção com jardim vertical"
+          },
+          {
+            "imagem": "midia/cabine.jpg",
+            "legenda": "Cabine de procedimentos"
+          },
+          {
+            "imagem": "midia/copa.jpg",
+            "legenda": "Cantinho de espera"
+          },
+          {
+            "imagem": "midia/letreiro.jpg",
+            "legenda": "Detalhe do letreiro"
+          }
+        ]
+      }
+    },
+    {
+      "id": "faq",
+      "variant": "colunas",
+      "data": {
+        "titulo": "Dúvidas sobre a depilação a laser",
+        "itens": [
+          {
+            "p": "Dói?",
+            "r": "A sensação mais comum é de calor ou uma leve ardência, às vezes pequenas picadas. Varia de pessoa para pessoa e de região para região."
+          },
+          {
+            "p": "Quantas sessões são?",
+            "r": "A série inicial costuma ter de 8 a 10 sessões. A profissional ajusta pelo resultado, pela região e pelo seu tipo de pelo."
+          },
+          {
+            "p": "Qual o intervalo entre as sessões?",
+            "r": "Em geral de 30 a 45 dias, acompanhando o ciclo de crescimento do pelo. Pelos muito finos podem pedir intervalo maior."
+          },
+          {
+            "p": "Como me preparo?",
+            "r": "Só lâmina antes da sessão. Cera e pinça arrancam a raiz, que é justamente onde o laser precisa agir."
+          },
+          {
+            "p": "Funciona em pelo branco?",
+            "r": "Não. O laser é atraído pela melanina, e o pelo branco não tem pigmento suficiente."
+          },
+          {
+            "p": "Quais regiões dá para tratar?",
+            "r": "Pernas, axilas, virilha, buço, queixo, nariz, abdômen e pés, entre outras. Na avaliação a profissional confirma o que vale para você."
+          }
+        ]
+      }
+    },
+    {
+      "id": "unidades",
+      "variant": "unica",
+      "data": {
+        "titulo": "A Zay fica em Higienópolis",
+        "imagem": "midia/recepcao.jpg"
+      }
+    },
+    {
+      "id": "cta-final",
+      "variant": "faixa",
+      "data": {
+        "h2": "Comece pela avaliação",
+        "lead": "Conte o que você quer cuidar e a recepção encontra o melhor horário com a profissional certa.",
+        "cta": "Agendar pelo WhatsApp"
+      }
+    },
+    {
+      "id": "footer",
+      "variant": "assinatura",
+      "data": {
+        "links": [
+          {
+            "texto": "Tratamentos",
+            "href": "#tratamentos"
+          },
+          {
+            "texto": "Equipe",
+            "href": "#equipe"
+          },
+          {
+            "texto": "Onde fica",
+            "href": "#unidades"
+          }
+        ]
+      }
+    }
+  ]
+}
